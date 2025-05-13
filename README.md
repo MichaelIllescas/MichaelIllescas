@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jonathan Illescas
 
-SDesarrollador de software con fuerte enfoque en **backend con Java y Spring Boot**, aunque también tengo experiencia fullstack con **React** y despliegue con **Docker**. Mi objetivo es crear soluciones tecnológicas que impulsen la digitalización procesos de negocio de las organizaciones.
+Desarrollador de software con fuerte enfoque en **backend con Java y Spring Boot**, aunque también tengo experiencia fullstack con **React** y despliegue con **Docker**. Mi objetivo es crear soluciones tecnológicas que impulsen la digitalización procesos de negocio de las organizaciones.
 
 ---
 
