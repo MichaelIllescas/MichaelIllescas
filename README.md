@@ -67,6 +67,18 @@ Panel administrativo en **React + Bootstrap**
 
 ---
 
+### 📢 [ClasifiTrenque](https://github.com/MichaelIllescas/web-advertising-system)
+
+Plataforma web de publicidad local para prestadores de servicios en la ciudad.  
+
+✔️ **Spring Boot + React**  
+✔️ **Gestión de usuarios, proveedores, categorías, comentarios y calificaciones**  
+✔️ **Dashboard con métricas administrativas**  
+✔️ **Arquitectura en capas inspirada en DDD + principios SOLID**  
+✔️ **Código abierto y adaptable a cualquier ciudad**  
+
+---
+
 ### 📦 [Inventiory - Backend](https://github.com/MichaelIllescas/inventiory-backend)
 
 ERP para stock, ventas, clientes y facturación
