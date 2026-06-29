@@ -1,190 +1,118 @@
 <p align="center">
-  <img width="180" height="180" alt="logo" src="https://github.com/user-attachments/assets/44275838-f347-405e-b427-6bfa74c8c4a6" />
+  <img width="200" alt="MJI - Software Developer" src="https://github.com/user-attachments/assets/44275838-f347-405e-b427-6bfa74c8c4a6" />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy <strong>Michael Jonathan Illescas</strong></h1>
-<h3 align="center">FullStack Developer | Clean Architectures | Software Design Enthusiast</h3>
-<p align="center">Apasionado por crear <strong>sistemas robustos, escalables y mantenibles</strong> con <strong>Java + Spring</strong>.<br>
-Experiencia <strong>Full Stack (React)</strong> y despliegues profesionales con <strong>Docker, VPS y Nginx</strong>.</p>
-
----
-
-## 🚀 Sobre mí
-
-🎓 Técnico Superior en Desarrollo de Software | Cursando Licenciatura en Tecnologías de la Información  
-🛡️ 10 años de experiencia en seguridad pública, hoy enfocado en el desarrollo de software.  
-📚 Apasionado por la arquitectura de software, patrones de diseño y seguridad informática.  
-⚙️ Fiel creyente de que el buen código debe ser claro, extensible y mantenible.  
-💡 Mi propósito: crear soluciones que aporten valor real y perduren en el tiempo.
-
----
-
-## 🏗️ Arquitecturas & Patrones de Diseño
-
-- 🏛️ Clean Architecture: separación estricta de capas, independencia de frameworks y foco en el dominio.
-- 🧩 Domain-Driven Design (DDD): modelado de negocio real, entidades ricas y lógica encapsulada.
-- 🛡️ Hexagonal Architecture (Ports & Adapters): adaptabilidad y testabilidad, entradas/salidas desacopladas.
-- 🏗️ Feature-Sliced Design (Frontend): organización modular y escalable en React.
-- 🔄 CQRS & Command Pattern: separación de comandos y queries para mayor claridad y escalabilidad.
-- 🧱 SOLID & DRY: principios para código mantenible y extensible.
-- 🔐 JWT, Roles y Seguridad multicapa: autenticación robusta y control de acceso granular.
-- ⚡ WebSocket & Event-Driven: comunicación en tiempo real y sistemas reactivos.
-
----
-
-## 🧰 Stack & Herramientas
-
-**Lenguajes**
-- ☕ Java (17+)
-- 🟦 TypeScript / JavaScript
-
-**Frameworks & Librerías Backend**
-- 🌱 Spring Boot, Spring Security, Spring Data JPA
-- 🗄️ Hibernate
-- 🧰 MapStruct
-- 🦾 Lombok
-
-**Frameworks & Librerías Frontend**
-- ⚛️ React (con Vite)
-- 🔗 Axios, React Router
-- 🧪 React Testing Library, Jest
-- 🎨 Bootstrap, CSS Modules
-
-**Bases de Datos**
-- 🐬 MySQL (principal)
-- 🐘 PostgreSQL (experiencia)
-- 🗃️ SQLite (experiencia)
-- 🧪 H2 (testing)
-
-**Testing & Calidad**
-- 🧪 JUnit, Mockito (Java)
-- 🧹 ESLint, TypeScript ESLint
-
-**DevOps & Deploy**
-- 🐳 Docker, Docker Compose
-- 🚦 Nginx (reverse proxy)
-- ☁️ VPS y Linux
-- 🗂️ Maven (build backend)
-
-**APIs & Documentación**
-- 📖 Swagger / OpenAPI (SpringDoc)
-- 📬 Postman
-
-**Otras Tecnologías**
-- 🔌 WebSocket (tiempo real)
-- 🛡️ JWT (autenticación)
-- 🖼️ ZXing (QR codes)
-- 🗄️ File Storage
-
-**Herramientas de Desarrollo**
-- 🔧 Git & GitHub (Git Flow)
-- 📝 VS Code, IntelliJ IDEA
-
-**Herramientas de IA & Automatización**
-- 🤖 GitHub Copilot, ChatGPT, Claude (asistentes de desarrollo y documentación)
-- 🧠 Integración de APIs de IA para visión computacional y procesamiento de lenguaje natural (NLP)
-
----
-
-## 🤝 Soft/Core Skills
-
-- 💬 Comunicación efectiva y escucha activa
-- 🧠 Pensamiento analítico y resolución de problemas
-- 🤝 Trabajo en equipo y colaboración interdisciplinaria
-- 🏗️ Liderazgo técnico y mentoría
-- 🔄 Adaptabilidad y aprendizaje continuo
-- 🕰️ Gestión del tiempo y organización
-- 🎯 Orientación a resultados y mejora continua
-- 🛡️ Ética profesional y responsabilidad
-
----
-
-## 📈 Proyectos Destacados
-
-### 🍽️ [QRest - Carta Interactiva para Restaurantes](https://github.com/MichaelIllescas/QRest)
-Sistema integral de gestión de restaurantes con carta digital QR, pedidos en tiempo real y panel administrativo.
-
-- 🧱 Clean Architecture + DDD + Hexagonal
-- 🔐 Spring Security + JWT + control de acceso físico
-- ⚡ WebSocket para actualizaciones en tiempo real
-- 🖼️ Gestión de productos, imágenes y reportes
-- 🧩 Frontend React (admin y carta pública)
-- 🚀 Despliegue profesional con Docker, VPS y Nginx
-
-### 🧠 [Coblan (ERP Administrativo)](https://github.com/MichaelIllescas/coblan-system-admin-backend)
-Plataforma modular para la gestión integral de PyMEs
-
-- 🧱 Arquitectura DDD + módulos desacoplados
-- 🔐 Spring Security + JWT
-- 👥 Gestión de usuarios, clientes, contrataciones y pagos
-- 📊 Módulos de reportes y balances
-
-### 🖥️ [Inventiory (ERP Comercial)](https://github.com/MichaelIllescas/inventiory-backend)
-Sistema de gestión para productos, ventas, clientes y facturación
-
-- ⚙️ Arquitectura modular + SOLID
-- 🔒 Autenticación JWT
-- 🗄️ Base de datos MySQL
-- 🧩 Frontend React orientado a productividad
-
-### 📢 [ClasifiTrenque](https://github.com/MichaelIllescas/web-advertising-system)
-Plataforma de publicidad local adaptable a cualquier ciudad
-
-- 🧭 Spring Boot + React
-- 🏷️ Gestión de categorías, usuarios y proveedores
-- 📈 Dashboard con métricas administrativas
-
-### 🏋️ [FitAdmin](https://github.com/MichaelIllescas/fitAdmin)
-Aplicación de escritorio offline para gestión de gimnasios
-
-- ⚡ React + Electron + SQLite
-- 💰 Control de pagos, asistencias y rentabilidad
-- 📉 Dashboard con reportes
-
-### 🏢 [El Ceibo Club](https://github.com/MichaelIllescas/el-ceibo-backEnd)
-Sistema de gestión de socios y cuotas mensuales
-
-- ⚙️ Spring Boot + React
-- 🔐 JWT + Roles
-- 💾 MySQL
-- 🧭 Panel administrativo moderno
-
----
-
-## 🧭 Actualmente
-
-- 🚀 Desarrollando soluciones empresariales con enfoque modular  
-- 🧪 Perfeccionando testing, logging y CI/CD pipelines  
-- 🧩 Implementando GitFlow en entornos colaborativos  
-- 🧠 Formándome hacia el rol de Software Architect
-
----
-
-## 🏆 Logros Técnicos
-
-✅ Aplicación real de Clean Architecture + DDD  
-✅ Integración de JWT y roles en múltiples sistemas  
-✅ Despliegues productivos con Docker + VPS  
-✅ Refactorización de proyectos monolíticos en módulos independientes  
-✅ Diseño de sistemas mantenibles y escalables
-
----
-
-## 📊 Estadísticas de GitHub
-
+<h1 align="center">Michael Jonathan Illescas</h1>
+<h3 align="center">Desarrollador Full Stack · Java + Spring · React / Angular</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelIllescas&theme=tokyonight" alt="GitHub Streak"/>
+  Construyo aplicaciones web mantenibles con backend en <strong>Java / Spring Boot</strong> y frontend en <strong>React</strong>,<br>
+  y las llevo a producción con <strong>Docker, Nginx y VPS</strong>.
+</p>
+
+<p align="center">
+  <a href="https://mji.imperial-net.com">🌐 Sitio personal</a> ·
+  <a href="https://linkedin.com/in/michael-jonathan-illescas">💼 LinkedIn</a> ·
+  <a href="mailto:illescasjonathan39@gmail.com">📧 Email</a>
+</p>
+
+---
+
+## 👤 Sobre mí
+
+- 🎓 Técnico Superior en Desarrollo de Software · cursando la Licenciatura en Tecnologías de la Información.
+- 💻 **+2 años** desarrollando software de forma profesional, con foco en **backend Java/Spring** y aplicaciones **full stack**.
+- 👮 Antes dediqué 10 años a la **seguridad pública**: una etapa que me dejó disciplina, responsabilidad y temple para trabajar bajo presión.
+- 🧱 Me apasiona la arquitectura de software, los patrones de diseño y escribir código claro y mantenible.
+
+---
+
+## 🏗️ Cómo trabajo
+
+Me importa el **diseño del software** tanto como que funcione. Enfoques que aplico en mis proyectos:
+
+- **Clean Architecture** — separación de capas e independencia de frameworks.
+- **Domain-Driven Design (DDD)** — modelado del negocio con entidades y lógica encapsulada.
+- **Arquitectura Hexagonal** (Ports & Adapters) — núcleo desacoplado de entradas/salidas.
+- **SOLID & DRY** como base del día a día.
+- **Seguridad con JWT y roles** — autenticación y control de acceso por permisos.
+- **WebSocket** — funcionalidades en tiempo real.
+
+---
+
+## 🧰 Stack
+
+**Backend** — Java 17 / 21 · Spring Boot · Spring Security · Spring Data JPA · Hibernate · MapStruct · Lombok · Maven
+
+**Frontend** — React (Vite) · Angular · TypeScript / JavaScript · React Router · Axios · Bootstrap / CSS Modules
+
+**Bases de datos** — MySQL (principal) · PostgreSQL · SQLite · H2 (testing)
+
+**Testing** — JUnit · Mockito · React Testing Library · Jest · ESLint
+
+**DevOps & Deploy** — Docker / Docker Compose · Nginx (reverse proxy) · VPS Linux
+
+**Otras** — Swagger / OpenAPI · Postman · WebSocket · ZXing (QR) · Git & GitHub (Git Flow)
+
+---
+
+## 💼 Proyectos destacados
+
+### 🍽️ QRest — Carta digital para restaurantes <sub>(repo privado)</sub>
+Gestión integral de restaurantes con carta por QR, pedidos en tiempo real y panel administrativo.
+`Clean Architecture + DDD + Hexagonal` · `Spring Security + JWT` · `WebSocket` · `React` · `Docker + Nginx + VPS`
+
+### 🧮 [Coblan — ERP administrativo](https://github.com/MichaelIllescas/coblan-system-admin-backend)
+Plataforma modular para la gestión de PyMEs: usuarios, clientes, contrataciones, pagos y reportes.
+`DDD + módulos desacoplados` · `Spring Security + JWT` · `Reportes y balances`
+
+### 🖥️ [Inventiory — ERP comercial](https://github.com/MichaelIllescas/inventiory-backend)
+Gestión de productos, ventas, clientes y facturación.
+`Arquitectura modular + SOLID` · `JWT` · `MySQL` · `React`
+
+### 📢 [ClasifiTrenque — Publicidad local](https://github.com/MichaelIllescas/web-advertising-system)
+Plataforma de avisos clasificados adaptable a cualquier ciudad.
+`Spring Boot + React` · `Categorías, usuarios y proveedores` · `Dashboard con métricas`
+
+### 🏋️ [FitAdmin — Gestión de gimnasios](https://github.com/MichaelIllescas/fitAdmin)
+Aplicación de escritorio offline para control de pagos, asistencias y rentabilidad.
+`React + Electron + SQLite` · `Dashboard con reportes`
+
+### 🏢 [El Ceibo Club — Gestión de socios](https://github.com/MichaelIllescas/el-ceibo-backEnd)
+Administración de socios y cuotas mensuales.
+`Spring Boot + React` · `JWT + Roles` · `MySQL`
+
+---
+
+## 🤝 Más allá del código
+
+- Pensamiento analítico y resolución de problemas.
+- Trabajo en equipo y colaboración interdisciplinaria.
+- Liderazgo técnico y mentoría en proyectos reales.
+- Aprendizaje continuo y orientación a resultados.
+- Disciplina y responsabilidad (mi etapa en seguridad pública dejó huella).
+
+---
+
+## 🌱 En qué ando ahora
+
+- Profundizando en testing, logging y pipelines de CI/CD.
+- Aplicando Git Flow en trabajo colaborativo.
+- Avanzando hacia el rol de **Software Architect**.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MichaelIllescas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelIllescas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ## 📬 Contacto
 
-📧 [illescasjonathan39@gmail.com](mailto:illescasjonathan39@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/michael-jonathan-illescas)  
-🌐 [Sitio Personal](https://mji.imperial-net.com)
+📧 [illescasjonathan39@gmail.com](mailto:illescasjonathan39@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/michael-jonathan-illescas) · 🌐 [Sitio personal](https://mji.imperial-net.com)
 
----
-
-<p align="center"><em>“Construyendo software que perdura, inspira confianza y aporta valor real.”</em></p>
+<p align="center"><em>“Código claro, sistemas que perduran.”</em></p>
