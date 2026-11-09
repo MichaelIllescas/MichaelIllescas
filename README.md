@@ -1,118 +1,87 @@
-<p align="center">
-  <img width="200" alt="MJI - Software Developer" src="https://github.com/user-attachments/assets/44275838-f347-405e-b427-6bfa74c8c4a6" />
-</p>
-
-<h1 align="center">Michael Jonathan Illescas</h1>
-<h3 align="center">Desarrollador Full Stack · Java + Spring · React / Angular</h3>
+<img src="assets/banner.svg" width="100%" alt="Michael Illescas, Full Stack Developer y Founder de QRest" />
 
 <p align="center">
-  Construyo aplicaciones web mantenibles con backend en <strong>Java / Spring Boot</strong> y frontend en <strong>React</strong>,<br>
-  y las llevo a producción con <strong>Docker, Nginx y VPS</strong>.
+  <a href="https://mji.imperial-net.com"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/michael-jonathan-illescas"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://qrest.com.ar/"><img src="assets/btn-qrest.svg" height="44" alt="QRest" /></a>
 </p>
 
 <p align="center">
-  <a href="https://mji.imperial-net.com">🌐 Sitio personal</a> ·
-  <a href="https://linkedin.com/in/michael-jonathan-illescas">💼 LinkedIn</a> ·
-  <a href="mailto:illescasjonathan39@gmail.com">📧 Email</a>
+  Desarrollo aplicaciones web de punta a punta y las despliego yo mismo en producción.<br />
+  Soy fundador de <strong>QRest</strong>, un SaaS gastronómico con clientes activos, y trabajo de forma independiente bajo <strong>Imperial Net</strong>.
 </p>
 
----
+<h2>Producto principal</h2>
 
-## 👤 Sobre mí
+<table>
+  <tr>
+    <td width="55%"><a href="https://qrest.com.ar/"><img src="assets/qrest.png" width="100%" alt="Panel de QRest" /></a></td>
+    <td width="45%">
+      <h3><a href="https://qrest.com.ar/">QRest</a></h3>
+      <p>Plataforma SaaS para la gestión gastronómica: mesas y pedidos en tiempo real, menú digital con QR, pedidos online, venta rápida, portal de mozos y reportes de ventas.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>React</code> <code>TypeScript</code> <code>WebSocket</code> <code>MySQL</code></p>
+      <p><a href="https://qrest.com.ar/"><strong>qrest.com.ar</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-- 🎓 Técnico Superior en Desarrollo de Software · cursando la Licenciatura en Tecnologías de la Información.
-- 💻 **+2 años** desarrollando software de forma profesional, con foco en **backend Java/Spring** y aplicaciones **full stack**.
-- 👮 Antes dediqué 10 años a la **seguridad pública**: una etapa que me dejó disciplina, responsabilidad y temple para trabajar bajo presión.
-- 🧱 Me apasiona la arquitectura de software, los patrones de diseño y escribir código claro y mantenible.
+<h2>Sistemas</h2>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MichaelIllescas/coblan-system"><img src="assets/coblan-system.png" width="100%" alt="Panel de Coblan System" /></a>
+      <h3><a href="https://github.com/MichaelIllescas/coblan-system">Coblan System</a></h3>
+      <p>Administración de empresas de servicios facturados por hora: contrataciones con cronograma, sueldos, comprobantes y balance real del negocio.</p>
+      <p><code>Spring Boot</code> <code>Spring Security</code> <code>React</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MichaelIllescas/inventiory"><img src="assets/inventiory.jpeg" width="100%" alt="Panel de Inventiory" /></a>
+      <h3><a href="https://github.com/MichaelIllescas/inventiory">Inventiory</a></h3>
+      <p>ERP para PyMEs: productos, proveedores, compras, ventas, presupuestos, cuentas corrientes y reportes de rentabilidad.</p>
+      <p><code>Spring Boot</code> <code>Spring Security</code> <code>React</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MichaelIllescas/club-manager"><img src="assets/club-manager.jpeg" width="100%" alt="Panel de Club Manager" /></a>
+      <h3><a href="https://github.com/MichaelIllescas/club-manager">Club Manager</a></h3>
+      <p>Administración de clubes deportivos: socios, jugadores por categoría, cuotas, pagos y recaudaciones.</p>
+      <p><code>Spring Boot</code> <code>Spring Security</code> <code>React</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MichaelIllescas/inventiory-thymeleaf"><img src="assets/inventiory-thymeleaf.jpeg" width="100%" alt="Panel de Inventiory Thymeleaf" /></a>
+      <h3><a href="https://github.com/MichaelIllescas/inventiory-thymeleaf">Inventiory Thymeleaf</a></h3>
+      <p>Gestión de stock y ventas para comercios pequeños. La primera versión de Inventiory, como aplicación monolítica.</p>
+      <p><code>Spring Boot</code> <code>Spring Data JPA</code> <code>Thymeleaf</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+</table>
 
-## 🏗️ Cómo trabajo
+<p>También desarrollé <a href="https://github.com/MichaelIllescas/SistemaRegistroDetenidos"><strong>SDRP</strong></a>, un sistema de registro de detenidos penales para seccionales policiales.</p>
 
-Me importa el **diseño del software** tanto como que funcione. Enfoques que aplico en mis proyectos:
-
-- **Clean Architecture** — separación de capas e independencia de frameworks.
-- **Domain-Driven Design (DDD)** — modelado del negocio con entidades y lógica encapsulada.
-- **Arquitectura Hexagonal** (Ports & Adapters) — núcleo desacoplado de entradas/salidas.
-- **SOLID & DRY** como base del día a día.
-- **Seguridad con JWT y roles** — autenticación y control de acceso por permisos.
-- **WebSocket** — funcionalidades en tiempo real.
-
----
-
-## 🧰 Stack
-
-**Backend** — Java 17 / 21 · Spring Boot · Spring Security · Spring Data JPA · Hibernate · MapStruct · Lombok · Maven
-
-**Frontend** — React (Vite) · Angular · TypeScript / JavaScript · React Router · Axios · Bootstrap / CSS Modules
-
-**Bases de datos** — MySQL (principal) · PostgreSQL · SQLite · H2 (testing)
-
-**Testing** — JUnit · Mockito · React Testing Library · Jest · ESLint
-
-**DevOps & Deploy** — Docker / Docker Compose · Nginx (reverse proxy) · VPS Linux
-
-**Otras** — Swagger / OpenAPI · Postman · WebSocket · ZXing (QR) · Git & GitHub (Git Flow)
-
----
-
-## 💼 Proyectos destacados
-
-### 🍽️ QRest — Carta digital para restaurantes <sub>(repo privado)</sub>
-Gestión integral de restaurantes con carta por QR, pedidos en tiempo real y panel administrativo.
-`Clean Architecture + DDD + Hexagonal` · `Spring Security + JWT` · `WebSocket` · `React` · `Docker + Nginx + VPS`
-
-### 🧮 [Coblan — ERP administrativo](https://github.com/MichaelIllescas/coblan-system-admin-backend)
-Plataforma modular para la gestión de PyMEs: usuarios, clientes, contrataciones, pagos y reportes.
-`DDD + módulos desacoplados` · `Spring Security + JWT` · `Reportes y balances`
-
-### 🖥️ [Inventiory — ERP comercial](https://github.com/MichaelIllescas/inventiory-backend)
-Gestión de productos, ventas, clientes y facturación.
-`Arquitectura modular + SOLID` · `JWT` · `MySQL` · `React`
-
-### 📢 [ClasifiTrenque — Publicidad local](https://github.com/MichaelIllescas/web-advertising-system)
-Plataforma de avisos clasificados adaptable a cualquier ciudad.
-`Spring Boot + React` · `Categorías, usuarios y proveedores` · `Dashboard con métricas`
-
-### 🏋️ [FitAdmin — Gestión de gimnasios](https://github.com/MichaelIllescas/fitAdmin)
-Aplicación de escritorio offline para control de pagos, asistencias y rentabilidad.
-`React + Electron + SQLite` · `Dashboard con reportes`
-
-### 🏢 [El Ceibo Club — Gestión de socios](https://github.com/MichaelIllescas/el-ceibo-backEnd)
-Administración de socios y cuotas mensuales.
-`Spring Boot + React` · `JWT + Roles` · `MySQL`
-
----
-
-## 🤝 Más allá del código
-
-- Pensamiento analítico y resolución de problemas.
-- Trabajo en equipo y colaboración interdisciplinaria.
-- Liderazgo técnico y mentoría en proyectos reales.
-- Aprendizaje continuo y orientación a resultados.
-- Disciplina y responsabilidad (mi etapa en seguridad pública dejó huella).
-
----
-
-## 🌱 En qué ando ahora
-
-- Profundizando en testing, logging y pipelines de CI/CD.
-- Aplicando Git Flow en trabajo colaborativo.
-- Avanzando hacia el rol de **Software Architect**.
-
----
-
-## 📊 GitHub
+<h2>Tecnologías</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MichaelIllescas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelIllescas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,ts,js,vite&theme=dark" alt="Java, Spring, React, Angular, TypeScript, JavaScript, Vite" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,nginx,linux,git,github&theme=dark" alt="MySQL, PostgreSQL, Docker, Nginx, Linux, Git, GitHub" />
 </p>
 
----
+<h2>Cómo trabajo</h2>
 
-## 📬 Contacto
-
-📧 [illescasjonathan39@gmail.com](mailto:illescasjonathan39@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/michael-jonathan-illescas) · 🌐 [Sitio personal](https://mji.imperial-net.com)
-
-<p align="center"><em>“Código claro, sistemas que perduran.”</em></p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Arquitectura</h4>
+      <p>Backends organizados por módulos de negocio y casos de uso, con Clean Architecture y Hexagonal cuando el producto lo justifica.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Producción</h4>
+      <p>Me ocupo también del despliegue: Docker, Nginx y servidores Linux, con sistemas que usan clientes reales.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Recorrido</h4>
+      <p>Técnico Superior en Desarrollo de Software, cursando la Licenciatura en TI. Antes, 10 años en seguridad pública.</p>
+    </td>
+  </tr>
+</table>
