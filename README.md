@@ -56,6 +56,15 @@
       <p><code>Spring Boot</code> <code>Spring Data JPA</code> <code>Thymeleaf</code> <code>MySQL</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MichaelIllescas/esthetiadmin"><img src="assets/esthetiadmin.png" width="100%" alt="Panel de EsthetiAdmin" /></a>
+      <h3><a href="https://github.com/MichaelIllescas/esthetiadmin">EsthetiAdmin</a></h3>
+      <p>Gestión para centros de estética: agenda de turnos, reserva online pública sin registro, clientes, tratamientos, gastos y reportes financieros.</p>
+      <p><code>Spring Boot 4</code> <code>Java 25</code> <code>Angular</code> <code>Flyway</code> <code>Docker</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <p>También desarrollé <a href="https://github.com/MichaelIllescas/SistemaRegistroDetenidos"><strong>SDRP</strong></a>, un sistema de registro de detenidos penales para seccionales policiales.</p>
