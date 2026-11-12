@@ -63,7 +63,13 @@
       <p>Gestión para centros de estética: agenda de turnos, reserva online pública sin registro, clientes, tratamientos, gastos y reportes financieros.</p>
       <p><code>Spring Boot 4</code> <code>Java 25</code> <code>Angular</code> <code>Flyway</code> <code>Docker</code> <code>MySQL</code></p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://docscan.imperial-net.com"><img src="assets/docscan.png" width="100%" alt="DocScan" /></a>
+      <h3><a href="https://docscan.imperial-net.com">DocScan</a></h3>
+      <p>PWA para escanear documentos con la cámara y exportarlos a PDF. Detecta los bordes con OpenCV en un Web Worker, aplica filtros y funciona offline, todo en el dispositivo.</p>
+      <p><code>React 19</code> <code>TypeScript</code> <code>Vite 6</code> <code>Tailwind</code> <code>OpenCV.js</code> <code>pdf-lib</code></p>
+      <p><a href="https://docscan.imperial-net.com"><strong>docscan.imperial-net.com</strong></a></p>
+    </td>
   </tr>
 </table>
 
